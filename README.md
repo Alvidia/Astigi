@@ -10,7 +10,7 @@
 
 ## 🚀 View Online
 Once published with GitHub Pages, view here:  
-**https://alvidia.github.io/astigi**
+https://github.com/Alvidia/Astigi.git
 
 ## 🛠️ Setup
 1. Clone the repository:
