@@ -15,4 +15,4 @@ Once published with GitHub Pages, view here:
 ## 🛠️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alvidia/bouffry-farm-map.git
+   git clone https://github.com/alvidia/astigi.git
