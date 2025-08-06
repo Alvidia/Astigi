@@ -1,0 +1,10 @@
+/* All your CSS moved here from the <style> block */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    min-height: 100vh;
+}
+/* ... [KEEP all the rest of your original CSS here exactly as it was] ... */
