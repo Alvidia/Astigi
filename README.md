@@ -10,7 +10,7 @@
 
 ## 🚀 View Online
 Once published with GitHub Pages, view here:  
-**https://YOURUSERNAME.github.io/bouffry-farm-map**
+**https://alvidia.github.io/astigi**
 
 ## 🛠️ Setup
 1. Clone the repository:
